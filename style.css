@@ -19,6 +19,7 @@ input {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+    
 }
 #easy {
  visibility: visible;
@@ -32,7 +33,7 @@ input {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-   
+    
 }
 
 #medium {
