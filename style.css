@@ -1,0 +1,73 @@
+img {
+ height: 300px;   
+ visibility: hidden;
+}
+input {
+ visibility:hidden; 
+ 
+}
+
+#submit {
+ visibility: hidden;  
+  background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#easy {
+ visibility: visible;
+  background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   
+}
+
+#medium {
+ visibility: visible;   
+  background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#hard {
+ visibility: visible;   
+  background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+h1 {
+ color:purple;  
+ display: inline-block;
+}
+h2 {
+ color:purple;
+}
+body {
+background-image: url("http://wallpapercave.com/wp/6ERktAi.png");
+}
